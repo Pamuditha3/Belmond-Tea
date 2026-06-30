@@ -1,0 +1,122 @@
+[
+  {
+    "_id": "p1",
+    "name": "Royal Breakfast",
+    "type": "classic-black-teas",
+    "format": "sachets",
+    "price": "$6.99",
+    "rating": "★★★★★",
+    "imgUrl": "https://images.unsplash.com/photo-1597481499750-3e6b22637e12?auto=format&fit=crop&q=80&w=400",
+    "desc": "A rich and traditional English breakfast blend. Selected from top Indian and Ceylon gardens, providing a strong, full-bodied cup with malty undertones.",
+    "ingredients": "100% pure black tea blend (Assam and Ceylon).",
+    "brewing": "Brew in freshly boiled water (100°C) for 3-5 minutes."
+  },
+  {
+    "_id": "p2",
+    "name": "Royal Lord Grey",
+    "type": "fruit-and-herbal-teas",
+    "format": "sachets",
+    "price": "$7.49",
+    "rating": "★★★★☆",
+    "imgUrl": "https://images.unsplash.com/photo-1563822249548-9a72b6353cd1?auto=format&fit=crop&q=80&w=400",
+    "desc": "A timeless English classic. Fine Ceylon black tea expertly scented with natural bergamot oil citrus flavor and decorated with blue cornflower petals.",
+    "ingredients": "Ceylon black tea, natural bergamot flavoring, cornflower petals.",
+    "brewing": "Brew in freshly boiled water (100°C) for 3 minutes."
+  },
+  {
+    "_id": "p3",
+    "name": "Royal Green",
+    "type": "green-teas-and-tisanes",
+    "format": "sachets",
+    "price": "$6.99",
+    "rating": "★★★★★",
+    "imgUrl": "https://images.unsplash.com/photo-1627435601361-ec25f5b1d0e5?auto=format&fit=crop&q=80&w=400",
+    "desc": "Fine Chinese green tea, carefully steam-processed to preserve its light emerald color, fresh sweet aroma, and rich antioxidants.",
+    "ingredients": "100% green tea.",
+    "brewing": "Brew in hot water (80°C) for 2-3 minutes."
+  },
+  {
+    "_id": "p4",
+    "name": "Royal Jasmine Green",
+    "type": "green-teas-and-tisanes",
+    "format": "pyramids",
+    "price": "$8.49",
+    "rating": "★★★★★",
+    "imgUrl": "https://images.unsplash.com/photo-1597481669461-39589d97bf95?auto=format&fit=crop&q=80&w=400",
+    "desc": "Premium green tea scented naturally by layering with fresh jasmine blossoms, then portioned into nylon mesh pyramids for optimal infusion.",
+    "ingredients": "Chinese green tea, natural jasmine petals.",
+    "brewing": "Brew in hot water (85°C) for 3 minutes."
+  },
+  {
+    "_id": "p5",
+    "name": "Royal Thyme & Rosemary",
+    "type": "fruit-and-herbal-teas",
+    "format": "leaf-and-granules",
+    "price": "$9.99",
+    "rating": "★★★★☆",
+    "imgUrl": "https://images.unsplash.com/photo-1576092768241-dec231879fc3?auto=format&fit=crop&q=80&w=400",
+    "desc": "An aromatic combination of fine black tea leaves mixed with wild mountain thyme sprigs and rosemary. Offers a savory, soothing, and earthy experience.",
+    "ingredients": "Black tea, dried thyme, dried rosemary.",
+    "brewing": "Brew in freshly boiled water (100°C) for 4-5 minutes."
+  },
+  {
+    "_id": "p6",
+    "name": "Royal Peach & Mint",
+    "type": "fruit-and-herbal-teas",
+    "format": "sachets",
+    "price": "$7.49",
+    "rating": "★★★★☆",
+    "imgUrl": "https://images.unsplash.com/photo-1562007908-17c67e870c88?auto=format&fit=crop&q=80&w=400",
+    "desc": "A summery black tea infusion. A juicy sweet peach flavour notes blended perfectly with fresh peppermint leaves for a crisp, clean cooling finish.",
+    "ingredients": "Black tea, peppermint leaves, peach flavouring.",
+    "brewing": "Brew in freshly boiled water (100°C) for 3-4 minutes."
+  },
+  {
+    "_id": "p7",
+    "name": "Royal Selection Gift Box",
+    "type": "gifts",
+    "format": "pyramids",
+    "price": "$24.99",
+    "rating": "★★★★★",
+    "imgUrl": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?auto=format&fit=crop&q=80&w=400",
+    "desc": "A grand royal assortment presented in an embossed metal gold box. Features 9 different signature premium blends including black, green, and herbal teas.",
+    "ingredients": "Assortment of black tea, green tea, herbal infusions and natural flavourings.",
+    "brewing": "Instructions vary by tea type (specified inside box)."
+  },
+  {
+    "_id": "p8",
+    "name": "Royal Ginger & Lemon",
+    "type": "wellness-collection",
+    "format": "pyramids",
+    "price": "$8.99",
+    "rating": "★★★★☆",
+    "imgUrl": "https://images.unsplash.com/photo-1514733670139-4d87a19bc194?auto=format&fit=crop&q=80&w=400",
+    "desc": "An invigorating caffeine-free herbal infusion. Spicy hot ginger root is balanced with zesty lemon peels and sweet lemongrass to boost your natural defenses.",
+    "ingredients": "Ginger root, lemongrass, lemon peel, licorice root.",
+    "brewing": "Brew in boiled water (100°C) for 5-7 minutes."
+  },
+  {
+    "_id": "p9",
+    "name": "Royal Immune Blend",
+    "type": "wellness-collection",
+    "format": "leaf-and-granules",
+    "price": "$11.99",
+    "rating": "★★★★★",
+    "imgUrl": "https://images.unsplash.com/photo-1597481499750-3e6b22637e12?auto=format&fit=crop&q=80&w=400",
+    "desc": "A supportive functional loose leaf tea. Rich herbal combination packed with rosehips, hibiscus flowers, echinacea herbs, and natural berries for premium body care.",
+    "ingredients": "Hibiscus, rosehip, echinacea, apple pieces, strawberry flavouring.",
+    "brewing": "Brew in boiled water (100°C) for 6-8 minutes."
+  },
+  {
+    "_id": "p10",
+    "name": "Royal Lion Crest Tin",
+    "type": "gifts",
+    "format": "leaf-and-granules",
+    "price": "$14.99",
+    "rating": "★★★★★",
+    "imgUrl": "https://images.unsplash.com/photo-1498804103079-a6351b050096?auto=format&fit=crop&q=80&w=400",
+    "desc": "A collector's item. A majestic deep royal blue tin can embossed with the golden lion crest, containing premium loose leaf Ceylon Orange Pekoe black tea.",
+    "ingredients": "100% Ceylon Orange Pekoe black tea.",
+    "brewing": "Brew in freshly boiled water (100°C) for 4 minutes."
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "n1",
+    "title": "The New Royal Selection Assorted Pack is Now Available",
+    "date": "October 15, 2025",
+    "desc": "Ideal for corporate gifts and family gatherings, our newly designed Royal Selection features 72 individual envelopes with 9 masterfully crafted blends. Available in retail partners globally.",
+    "imgUrl": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?auto=format&fit=crop&q=80&w=600",
+    "link": "/collection?type=gifts"
+  },
+  {
+    "_id": "n2",
+    "title": "Celebrate British Heritage: The Queen's Anniversary Blends",
+    "date": "June 20, 2025",
+    "desc": "Inspired by Royal tea blends served during the late 19th-century state dinners, our tea masters have reconstituted a rich Ceylon & Assam black tea with bergamot extract and wild cornflowers in gorgeous cobalt metal tins.",
+    "imgUrl": "https://images.unsplash.com/photo-1594631252845-29fc4586d51c?auto=format&fit=crop&q=80&w=600",
+    "link": "/collection?type=classic-black-teas"
+  },
+  {
+    "_id": "n3",
+    "title": "Discover the Fresh Spring Harvest of Green Tea",
+    "date": "April 05, 2025",
+    "desc": "Our signature Green Teas and Tisanes line welcomes fresh steamed spring leaves from organic Chinese tea gardens. Enjoy refreshing cups packed with natural antioxidants and jasmine notes.",
+    "imgUrl": "https://images.unsplash.com/photo-1627435601361-ec25f5b1d0e5?auto=format&fit=crop&q=80&w=600",
+    "link": "/collection?type=green-teas-and-tisanes"
+  }
+]

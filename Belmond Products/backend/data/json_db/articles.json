@@ -1,0 +1,50 @@
+[
+  {
+    "_id": "a1",
+    "title": "Traditions and history of English tea drinking",
+    "category": "History & Traditions",
+    "readTime": "5 min read",
+    "imgUrl": "https://images.unsplash.com/photo-1556881286-fc6915169721?auto=format&fit=crop&q=80&w=600",
+    "desc": "Delve into the origin of Afternoon Tea, introduced by Duchess Anna Maria in the 1840s, and how it evolved into a beloved royal ceremony."
+  },
+  {
+    "_id": "a2",
+    "title": "How to store tea so that it does not lose its flavor and aroma",
+    "category": "Tea Care",
+    "readTime": "4 min read",
+    "imgUrl": "https://images.unsplash.com/photo-1597481669461-39589d97bf95?auto=format&fit=crop&q=80&w=600",
+    "desc": "Tea is highly sensitive to humidity, odors, light, and heat. Learn our experts' secrets to keeping your royal blends fresh in air-tight tins."
+  },
+  {
+    "_id": "a3",
+    "title": "How many cups of tea a day you can drink without harming your health",
+    "category": "Wellness",
+    "readTime": "6 min read",
+    "imgUrl": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?auto=format&fit=crop&q=80&w=600",
+    "desc": "Uncover the scientific benefits of daily tea drinking, from improved cardiac health to concentration boosts, and learn the optimal daily amount."
+  },
+  {
+    "_id": "a4",
+    "title": "The secret of brewing the perfect cup of Ceylon tea",
+    "category": "Brewing Guides",
+    "readTime": "3 min read",
+    "imgUrl": "https://images.unsplash.com/photo-1563822249548-9a72b6353cd1?auto=format&fit=crop&q=80&w=600",
+    "desc": "Water temperature, brewing times, and teapot materials. Our tea master shares step-by-step guidance to unlock the royal flavor profile."
+  },
+  {
+    "_id": "a5",
+    "title": "Understanding herbal tisanes & antioxidant wellness",
+    "category": "Ingredients",
+    "readTime": "5 min read",
+    "imgUrl": "https://images.unsplash.com/photo-1514733670139-4d87a19bc194?auto=format&fit=crop&q=80&w=600",
+    "desc": "What makes a wellness collection tea functional? Discover the therapeutic powers of ginger, mint, chamomile, and active botanicals."
+  },
+  {
+    "_id": "a6",
+    "title": "A journey through Victorian Afternoon Tea ceremonies",
+    "category": "Royal History",
+    "readTime": "7 min read",
+    "imgUrl": "https://images.unsplash.com/photo-1576092768241-dec231879fc3?auto=format&fit=crop&q=80&w=600",
+    "desc": "Travel back in time to explore the elaborate table setups, dress codes, and etiquette rules that defined the aristocratic British tea hour."
+  }
+]
